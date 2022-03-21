@@ -29,8 +29,9 @@
     "parser": "babel-eslint"
   },
   "dependencies": {
-    "ec-key": "0.0.2",
-    "node-forge": "^0.8.0",
-    "x509": "^0.3.4"
+    "@ghaiklor/x509": "^1.1.0",
+    "crypto": "^1.0.1",
+    "ec-key": "^0.0.4",
+    "node-forge": "^1.3.0"
   }
 }
