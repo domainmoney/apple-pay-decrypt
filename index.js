@@ -1,4 +1,4 @@
-const x509 = require('x509')
+const x509 = require('@ghaiklor/x509')
 const crypto = require('crypto')
 const forge = require('node-forge')
 const ECKey = require('ec-key')
